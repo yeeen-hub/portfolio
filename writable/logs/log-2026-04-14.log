@@ -1,0 +1,18 @@
+CRITICAL - 2026-04-14 03:00:50 --> ErrorException: Out of memory (allocated 4194304 bytes) (tried to allocate 57344 bytes)
+[Method: GET, Route: about]
+in SYSTEMPATH\Autoloader\Autoloader.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-04-14 05:12:45 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: about]
+in APPPATH\Views\about.php on line 36.
+ 1 APPPATH\Views\about.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\laragon\\www\\portfolio\\app\\Views\\about.php', 36)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('about', [...], true)
+ 5 APPPATH\Controllers\About.php(19): view('about', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\About->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

@@ -1,0 +1,42 @@
+CRITICAL - 2026-04-22 07:42:14 --> ErrorException: Undefined variable $projects
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 115.
+ 1 APPPATH\Views\editproject.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $projects', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 115)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(9): view('editproject')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-22 07:42:16 --> ErrorException: Undefined variable $projects
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 115.
+ 1 APPPATH\Views\editproject.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $projects', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 115)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(9): view('editproject')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-04-22 07:42:17 --> ErrorException: Undefined variable $projects
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 115.
+ 1 APPPATH\Views\editproject.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $projects', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 115)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(9): view('editproject')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
