@@ -1,0 +1,1422 @@
+CRITICAL - 2026-03-16 10:26:16 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 20.
+ 1 APPPATH\Views\editcontent.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 20)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:43:05 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 20.
+ 1 APPPATH\Views\editcontent.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 20)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:43:07 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 20.
+ 1 APPPATH\Views\editcontent.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 20)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:43:16 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 20.
+ 1 APPPATH\Views\editcontent.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 20)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:46:08 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 20.
+ 1 APPPATH\Views\editcontent.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 20)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:50:53 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 22.
+ 1 APPPATH\Views\editcontent.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 22)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:51:01 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 22.
+ 1 APPPATH\Views\editcontent.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 22)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:52:42 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 22.
+ 1 APPPATH\Views\editcontent.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 22)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 10:52:44 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 22.
+ 1 APPPATH\Views\editcontent.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 22)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(8): view('editcontent')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 10:58:26 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 10:58:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:02:18 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:02:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:02:19 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:02:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:14:19 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:14:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:51:39 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:51:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:52:34 --> Table 'portfolio.landing' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `landing`
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(769): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `landing`
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(686): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `landing`
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 11:52:34 --> Error: Call to a member function getFirstRow() on false
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Model.php on line 296.
+ 1 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 2 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:53:45 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:53:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:56:00 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'portfolio_user'@'localhost' (using password: YES) in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('127.0.0.1', 'portfolio_user', Object(SensitiveParameterValue), 'portfolio', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:56:00 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:56:51 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:56:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:57:34 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'portfolio_user'@'localhost' (using password: YES) in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('127.0.0.1', 'portfolio_user', Object(SensitiveParameterValue), 'portfolio', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:57:34 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 11:59:53 --> Error connecting to the database: mysqli_sql_exception: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Plugin 'mysql_native_password' is not loaded in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 11:59:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Plugin 'mysql_native_password' is not loaded
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 12:00:53 --> Table 'portfolio.landing' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `landing`
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(769): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `landing`
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(686): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `landing`
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:00:53 --> Error: Call to a member function getFirstRow() on false
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Model.php on line 296.
+ 1 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 2 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 12:07:41 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'portfolio_user'@'localhost' to database 'portfolio_db' in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('127.0.0.1', 'portfolio_user', Object(SensitiveParameterValue), 'portfolio_db', 3306, '', 0)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#9 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' to database 'portfolio_db' in C:\laragon\www\portfolio\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\portfolio\system\Database\BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\portfolio\system\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\portfolio\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\portfolio\system\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\portfolio\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#5 C:\laragon\www\portfolio\app\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+#6 C:\laragon\www\portfolio\system\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+#7 C:\laragon\www\portfolio\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+#8 C:\laragon\www\portfolio\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\portfolio\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\portfolio\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\portfolio\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2026-03-16 12:07:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' to database 'portfolio_db'
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Database\BaseConnection.php on line 465.
+ 1 SYSTEMPATH\Database\BaseConnection.php(654): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 3 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 12:10:30 --> Table 'portfolio_db.landing' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `landing`
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(769): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `landing`
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(686): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `landing`
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `landing`
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:10:30 --> Error: Call to a member function getFirstRow() on false
+[Method: GET, Route: editcontent]
+in SYSTEMPATH\Model.php on line 296.
+ 1 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 2 APPPATH\Controllers\Editcontent.php(10): CodeIgniter\BaseModel->first()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:23:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/landing_edit.php"
+[Method: GET, Route: admin/landing]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/landing_edit.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/landing_edit', [], true)
+ 3 APPPATH\Controllers\Landing.php(12): view('admin/landing_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Landing->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:27:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/landing_edit.php"
+[Method: GET, Route: admin/landing]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/landing_edit.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/landing_edit', [], true)
+ 3 APPPATH\Controllers\Landing.php(12): view('admin/landing_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Landing->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:27:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/landing_edit.php"
+[Method: GET, Route: admin/landing]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/landing_edit.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/landing_edit', [], true)
+ 3 APPPATH\Controllers\Landing.php(12): view('admin/landing_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Landing->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:48:03 --> ErrorException: Undefined array key "phonenumber"
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 58.
+ 1 APPPATH\Views\editcontent.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "phonenumber"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 58)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(12): view('editcontent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:48:06 --> ErrorException: Undefined array key "phonenumber"
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 58.
+ 1 APPPATH\Views\editcontent.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "phonenumber"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 58)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(12): view('editcontent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:50:18 --> ErrorException: Undefined array key "phonenumber"
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 58.
+ 1 APPPATH\Views\editcontent.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "phonenumber"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 58)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(12): view('editcontent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:54:35 --> ErrorException: Undefined array key "phonenumber"
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 58.
+ 1 APPPATH\Views\editcontent.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "phonenumber"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 58)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(12): view('editcontent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 12:57:50 --> ErrorException: Undefined array key "github"
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 63.
+ 1 APPPATH\Views\editcontent.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "github"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 63)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(12): view('editcontent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 13:40:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/landing_edit.php"
+[Method: GET, Route: admin/landing]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/landing_edit.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/landing_edit', [], true)
+ 3 APPPATH\Controllers\Landing.php(12): view('admin/landing_edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Landing->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Landing))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 15:25:50 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: about]
+in APPPATH\Views\about.php on line 95.
+ 1 APPPATH\Views\about.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\about.php', 95)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\About.php(7): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\About->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 15:25:54 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: about]
+in APPPATH\Views\about.php on line 95.
+ 1 APPPATH\Views\about.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\about.php', 95)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\About.php(7): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\About->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 16:16:21 --> ErrorException: Undefined array key "sktitle"
+[Method: GET, Route: editcontent]
+in APPPATH\Views\editcontent.php on line 82.
+ 1 APPPATH\Views\editcontent.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sktitle"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php', 82)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editcontent.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editcontent', [], true)
+ 5 APPPATH\Controllers\Editcontent.php(12): view('editcontent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editcontent->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editcontent))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 16:53:42 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 34.
+ 1 APPPATH\Views\editproject.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 34)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(8): view('editproject')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 16:53:44 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 34.
+ 1 APPPATH\Views\editproject.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 34)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(8): view('editproject')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-03-16 17:22:16 --> Table 'portfolio_db.project' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `project`
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(769): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `project`
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(686): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `project`
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `project`
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(296): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Editproject.php(10): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 17:22:16 --> Error: Call to a member function getFirstRow() on false
+[Method: GET, Route: editproject]
+in SYSTEMPATH\Model.php on line 296.
+ 1 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 2 APPPATH\Controllers\Editproject.php(10): CodeIgniter\BaseModel->first()
+ 3 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 17:26:03 --> ErrorException: Trying to access array offset on null
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 34.
+ 1 APPPATH\Views\editproject.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on null', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 34)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(12): view('editproject', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 17:26:06 --> ErrorException: Trying to access array offset on null
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 34.
+ 1 APPPATH\Views\editproject.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on null', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 34)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(12): view('editproject', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 17:26:06 --> ErrorException: Trying to access array offset on null
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 34.
+ 1 APPPATH\Views\editproject.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on null', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 34)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(12): view('editproject', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 17:29:56 --> Error: Class "App\Controllers\ProjectModel" not found
+[Method: POST, Route: admin/project/update]
+in APPPATH\Controllers\Project.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->update()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 18:16:57 --> ErrorException: Undefined variable $projects
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 91.
+ 1 APPPATH\Views\editproject.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $projects', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 91)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(12): view('editproject', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 18:26:22 --> ArgumentCountError: Too few arguments to function App\Controllers\Project::edit(), 0 passed in C:\laragon\www\portfolio\system\CodeIgniter.php on line 951 and exactly 1 expected
+[Method: GET, Route: admin/project]
+in APPPATH\Controllers\Project.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 18:36:22 --> ArgumentCountError: Too few arguments to function App\Controllers\Project::edit(), 0 passed in C:\laragon\www\portfolio\system\CodeIgniter.php on line 951 and exactly 1 expected
+[Method: GET, Route: admin/project]
+in APPPATH\Controllers\Project.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 18:38:30 --> ArgumentCountError: Too few arguments to function App\Controllers\Project::edit(), 0 passed in C:\laragon\www\portfolio\system\CodeIgniter.php on line 951 and exactly 1 expected
+[Method: GET, Route: admin/project]
+in APPPATH\Controllers\Project.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 18:38:54 --> ArgumentCountError: Too few arguments to function App\Controllers\Project::edit(), 0 passed in C:\laragon\www\portfolio\system\CodeIgniter.php on line 951 and exactly 1 expected
+[Method: GET, Route: admin/project]
+in APPPATH\Controllers\Project.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 19:03:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/project_list.php"
+[Method: GET, Route: admin/project]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/project_list.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/project_list', [], true)
+ 3 APPPATH\Controllers\Project.php(13): view('admin/project_list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 19:03:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/project_list.php"
+[Method: GET, Route: admin/project]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/project_list.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/project_list', [], true)
+ 3 APPPATH\Controllers\Project.php(13): view('admin/project_list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 19:03:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/project_list.php"
+[Method: GET, Route: admin/project]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/project_list.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/project_list', [], true)
+ 3 APPPATH\Controllers\Project.php(13): view('admin/project_list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 19:14:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/project_list.php"
+[Method: GET, Route: admin/project]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/project_list.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/project_list', [], true)
+ 3 APPPATH\Controllers\Project.php(13): view('admin/project_list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 19:14:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/project_list.php"
+[Method: GET, Route: admin/project]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(226): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/project_list.php')
+ 2 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('admin/project_list', [], true)
+ 3 APPPATH\Controllers\Project.php(13): view('admin/project_list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Project->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Project))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 19:35:59 --> ErrorException: Undefined array key "project_cat"
+[Method: GET, Route: editproject]
+in APPPATH\Views\editproject.php on line 114.
+ 1 APPPATH\Views\editproject.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "project_cat"', 'C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php', 114)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\editproject.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('editproject', [], true)
+ 5 APPPATH\Controllers\Editproject.php(11): view('editproject', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Editproject->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editproject))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 20:02:19 --> ErrorException: Undefined variable $projects
+[Method: GET, Route: projects]
+in APPPATH\Views\projects.php on line 21.
+ 1 APPPATH\Views\projects.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $projects', 'C:\\laragon\\www\\portfolio\\app\\Views\\projects.php', 21)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\projects.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('projects', [], true)
+ 5 APPPATH\Controllers\Projects.php(9): view('projects')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Projects->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projects))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 20:03:14 --> ErrorException: Undefined variable $projects
+[Method: GET, Route: projects]
+in APPPATH\Views\projects.php on line 21.
+ 1 APPPATH\Views\projects.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $projects', 'C:\\laragon\\www\\portfolio\\app\\Views\\projects.php', 21)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\projects.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('projects', [], true)
+ 5 APPPATH\Controllers\Projects.php(9): view('projects')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Projects->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projects))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:08:22 --> ParseError: Unclosed '{' on line 17
+[Method: GET, Route: login]
+in APPPATH\Config\Filters.php on line 113.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\portfolio\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(298): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(217): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(160): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 9 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+10 SYSTEMPATH\Config\BaseService.php(325): CodeIgniter\Config\Services::filters(null, false)
+11 SYSTEMPATH\Config\BaseService.php(264): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+12 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+13 SYSTEMPATH\Config\BaseService.php(334): CodeIgniter\Config\Services::filters()
+14 SYSTEMPATH\CodeIgniter.php(331): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+15 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:08:24 --> ParseError: Unclosed '{' on line 17
+[Method: GET, Route: login]
+in APPPATH\Config\Filters.php on line 113.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\portfolio\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(298): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(217): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(160): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 9 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+10 SYSTEMPATH\Config\BaseService.php(325): CodeIgniter\Config\Services::filters(null, false)
+11 SYSTEMPATH\Config\BaseService.php(264): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+12 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+13 SYSTEMPATH\Config\BaseService.php(334): CodeIgniter\Config\Services::filters()
+14 SYSTEMPATH\CodeIgniter.php(331): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+15 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:08:25 --> ParseError: Unclosed '{' on line 17
+[Method: GET, Route: home]
+in APPPATH\Config\Filters.php on line 113.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\portfolio\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(298): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(217): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(160): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 9 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+10 SYSTEMPATH\Config\BaseService.php(325): CodeIgniter\Config\Services::filters(null, false)
+11 SYSTEMPATH\Config\BaseService.php(264): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+12 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+13 SYSTEMPATH\Config\BaseService.php(334): CodeIgniter\Config\Services::filters()
+14 SYSTEMPATH\CodeIgniter.php(331): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+15 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:08:26 --> ParseError: Unclosed '{' on line 17
+[Method: GET, Route: home]
+in APPPATH\Config\Filters.php on line 113.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\portfolio\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(298): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(217): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(160): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 9 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+10 SYSTEMPATH\Config\BaseService.php(325): CodeIgniter\Config\Services::filters(null, false)
+11 SYSTEMPATH\Config\BaseService.php(264): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+12 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+13 SYSTEMPATH\Config\BaseService.php(334): CodeIgniter\Config\Services::filters()
+14 SYSTEMPATH\CodeIgniter.php(331): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+15 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:08:26 --> ParseError: Unclosed '{' on line 17
+[Method: GET, Route: home]
+in APPPATH\Config\Filters.php on line 113.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\portfolio\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(298): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(217): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(160): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 9 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+10 SYSTEMPATH\Config\BaseService.php(325): CodeIgniter\Config\Services::filters(null, false)
+11 SYSTEMPATH\Config\BaseService.php(264): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+12 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+13 SYSTEMPATH\Config\BaseService.php(334): CodeIgniter\Config\Services::filters()
+14 SYSTEMPATH\CodeIgniter.php(331): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+15 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:08:27 --> ParseError: Unclosed '{' on line 17
+[Method: GET, Route: home]
+in APPPATH\Config\Filters.php on line 113.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\portfolio\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(298): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(217): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(160): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Config\Factories.php(189): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Common.php(208): CodeIgniter\Config\Factories::get('config', 'Config\\Filters')
+ 9 SYSTEMPATH\Config\Services.php(295): config('Config\\Filters')
+10 SYSTEMPATH\Config\BaseService.php(325): CodeIgniter\Config\Services::filters(null, false)
+11 SYSTEMPATH\Config\BaseService.php(264): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+12 SYSTEMPATH\Config\Services.php(292): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+13 SYSTEMPATH\Config\BaseService.php(334): CodeIgniter\Config\Services::filters()
+14 SYSTEMPATH\CodeIgniter.php(331): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+15 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 21:59:33 --> Error: Class "App\Filters\Auth" not found
+[Method: POST, Route: admin/project/update/1]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('App\\Filters\\Auth')
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(465): CodeIgniter\Filters\Filters->run('admin/project/update/1', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:00:08 --> Error: Class "App\Filters\Auth" not found
+[Method: POST, Route: admin/project/update/1]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('App\\Filters\\Auth')
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(465): CodeIgniter\Filters\Filters->run('admin/project/update/1', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:05:15 --> Error: Class "App\Filters\Auth" not found
+[Method: POST, Route: admin/project/update/1]
+in SYSTEMPATH\Filters\Filters.php on line 299.
+ 1 SYSTEMPATH\Filters\Filters.php(239): CodeIgniter\Filters\Filters->createFilter('App\\Filters\\Auth')
+ 2 SYSTEMPATH\Filters\Filters.php(221): CodeIgniter\Filters\Filters->runBefore([...])
+ 3 SYSTEMPATH\CodeIgniter.php(465): CodeIgniter\Filters\Filters->run('admin/project/update/1', 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:31:27 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: contact]
+in APPPATH\Views\contact.php on line 30.
+ 1 APPPATH\Views\contact.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\contact.php', 30)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\contact.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('contact', [], true)
+ 5 APPPATH\Controllers\Contact.php(8): view('contact')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Contact->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:31:29 --> ErrorException: Undefined variable $landing
+[Method: GET, Route: contact]
+in APPPATH\Views\contact.php on line 30.
+ 1 APPPATH\Views\contact.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $landing', 'C:\\laragon\\www\\portfolio\\app\\Views\\contact.php', 30)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\contact.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('contact', [], true)
+ 5 APPPATH\Controllers\Contact.php(8): view('contact')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Contact->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:39:22 --> ErrorException: Undefined array key "phone"
+[Method: GET, Route: contact]
+in APPPATH\Views\contact.php on line 37.
+ 1 APPPATH\Views\contact.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "phone"', 'C:\\laragon\\www\\portfolio\\app\\Views\\contact.php', 37)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\contact.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('contact', [], true)
+ 5 APPPATH\Controllers\Contact.php(17): view('contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Contact->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:42:01 --> TypeError: view(): Argument #3 ($options) must be of type array, string given, called in C:\laragon\www\portfolio\app\Controllers\About.php on line 19
+[Method: GET, Route: about]
+in SYSTEMPATH\Common.php on line 1238.
+ 1 APPPATH\Controllers\About.php(19): view('about', [...], 'data')
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\About->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:44:00 --> ErrorException: Undefined array key "sub_heading"
+[Method: GET, Route: about]
+in APPPATH\Views\about.php on line 35.
+ 1 APPPATH\Views\about.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sub_heading"', 'C:\\laragon\\www\\portfolio\\app\\Views\\about.php', 35)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('about', [...], true)
+ 5 APPPATH\Controllers\About.php(19): view('about', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\About->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-16 22:48:19 --> ErrorException: Undefined array key "skthree"
+[Method: GET, Route: home]
+in APPPATH\Views\home.php on line 83.
+ 1 APPPATH\Views\home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "skthree"', 'C:\\laragon\\www\\portfolio\\app\\Views\\home.php', 83)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\laragon\\www\\portfolio\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Easegeometric'; /* You can choose a custom name */
+    src: url('../fonts/EaseGeometricATRIAL-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Agrandir'; /* Use the same name to group the styles */
+    src: url('../fonts/Agrandir-Regular.otf') format('opentype');
+    font-weight: regular;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Audiowide'; /* Use the same name to group the styles */
+    src: url('../fonts/Audiowide-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
